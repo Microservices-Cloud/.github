@@ -1,7 +1,7 @@
 # Ribbon
-Replaced by Spring Cloud load balancer
+Replaced by Spring Cloud load balancer  
 --  Load balancing is the process of distributing traffic among different instances of the same application  
---  To create a fault-tolerant system, it's common to run multiple instances of each application.
+--  To create a fault-tolerant system, it's common to run multiple instances of each application.  
 
 # Zuul  
 Replaced by Spring Cloud Gateway  
