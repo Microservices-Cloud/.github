@@ -22,7 +22,10 @@ Replaced by Resilience4j
 --  An instance is a microservice copy  
 
 # Naming Server    
---  Has 2 main features MS registration, and MS discovery     
+--  Has 2 main features MS registration, and MS discovery  
+
+# Resilience4j  
+-- Java library that helps us build resilient and fault-tolerant applications       
 
 
 
